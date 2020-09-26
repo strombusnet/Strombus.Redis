@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "description": "Strombus.Redis Class Library",
+  "authors": [ "" ],
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.0",
+    "System.Collections.NonGeneric": "4.0.1",
+    "System.Threading.ThreadPool": "4.0.10"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
